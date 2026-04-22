@@ -1,0 +1,13 @@
+{
+  "name": "ai-fluency",
+  "version": "0.1.0",
+  "description": "Applies Anthropic's 4D AI Fluency Framework (Delegation, Description, Discernment, Diligence) to produce sharper, more trustworthy outputs on substantive creative, analytical, and decision-shaping tasks.",
+  "author": {
+    "name": "venticlaw",
+    "email": "josh@buildingourtech.org"
+  },
+  "homepage": "https://github.com/venticlaw/ai-fluency-skill",
+  "repository": "https://github.com/venticlaw/ai-fluency-skill",
+  "license": "MIT",
+  "keywords": ["skill", "ai-fluency", "4d-framework", "prompting", "output-quality", "anthropic"]
+}

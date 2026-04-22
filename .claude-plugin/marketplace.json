@@ -1,0 +1,18 @@
+{
+  "name": "venticlaw-marketplace",
+  "owner": {
+    "name": "venticlaw",
+    "email": "josh@buildingourtech.org"
+  },
+  "metadata": {
+    "description": "Plugins by venticlaw — starting with ai-fluency, a skill that applies Anthropic's 4D AI Fluency Framework to improve output quality on substantive tasks."
+  },
+  "plugins": [
+    {
+      "name": "ai-fluency",
+      "source": "./",
+      "description": "Applies Anthropic's 4D AI Fluency Framework (Delegation, Description, Discernment, Diligence) to produce sharper, more trustworthy outputs.",
+      "version": "0.1.0"
+    }
+  ]
+}
