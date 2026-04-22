@@ -69,3 +69,7 @@ claude plugin validate .
 ## License
 
 MIT — see `LICENSE`.
+
+## Privacy
+
+This plugin ships no code, hooks, or network calls and collects no data. See [`PRIVACY.md`](PRIVACY.md) for the full policy.
